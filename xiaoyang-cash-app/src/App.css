@@ -4,19 +4,19 @@
    ======================================== */
 
 :root {
-  --primary: #f59e0b;
-  --primary-light: #fef3c7;
-  --primary-dark: #d97706;
+  --primary: #22c55e;
+  --primary-light: #dcfce7;
+  --primary-dark: #16a34a;
   --danger: #ef4444;
   --success: #10b981;
   --income: #10b981;
   --income-light: #d1fae5;
-  --bg: #f8fafc;
+  --bg: #f0fdf4;
   --card-bg: #ffffff;
   --text: #1e293b;
   --text-secondary: #64748b;
   --text-light: #94a3b8;
-  --border: #e2e8f0;
+  --border: #bbf7d0;
   --shadow: 0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06);
   --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.08), 0 2px 4px -1px rgba(0, 0, 0, 0.04);
   --radius: 12px;
@@ -54,7 +54,7 @@ body {
    顶部导航
    ======================================== */
 .header {
-  background: linear-gradient(135deg, #f59e0b, #f97316);
+  background: linear-gradient(135deg, #22c55e, #059669);
   color: white;
   padding: 20px 16px 16px;
   border-radius: 0 0 24px 24px;
