@@ -1,0 +1,11 @@
+/* 小羊记账 - 基础全局重置 */
+/* 大部分样式都在 App.css 中，这里只保留最基础的 */
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  min-height: 100svh;
+}
